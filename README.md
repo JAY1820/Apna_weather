@@ -7,10 +7,10 @@
 
 
 <h3>Updated Weather Data for Searched City</h3>
-<img src="https://github.com/JAY1820/Icon_and_gif/blob/main/weather%201.jpg">
+<img src="https://github.com/JAY1820/Icon_and_gif/blob/main/weather%202.jpg">
 
 <h3>Weather Forecast for the Week</h3>
-<img src="https://example.com/forecast-screenshot.png" alt="Weather Forecast">
+<img src="https://github.com/JAY1820/Icon_and_gif/blob/main/weather%201.jpg">
 
 
 <h2>Features</h2>
