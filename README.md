@@ -4,13 +4,14 @@
 
 <p>Apna Weather App is a solo project aimed at providing users with weather data for their desired locations. The app allows users to search for a specific city or select a location from the provided Google Map.</p>
 
-<h2>Screenshots</h2>
+
+
+<h3>Updated Weather Data for Searched City</h3>
+<img src="https://github.com/JAY1820/Icon_and_gif/blob/main/weather%201.jpg">
 
 <h3>Weather Forecast for the Week</h3>
 <img src="https://example.com/forecast-screenshot.png" alt="Weather Forecast">
 
-<h3>Updated Weather Data for Searched City</h3>
-<img src="https://example.com/searched-city-screenshot.png" alt="Updated Weather Data">
 
 <h2>Features</h2>
 
@@ -42,10 +43,3 @@
   <li>Start exploring the app and searching for weather information.</li>
 </ol>
 
-<h2>Contributions</h2>
-
-<p>Contributions to Apna Weather App are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the project repository. Feel free to submit pull requests with improvements or fixes as well.</p>
-
-<h2>License</h2>
-
-<p>The Apna Weather App is released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
